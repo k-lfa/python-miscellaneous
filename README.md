@@ -54,3 +54,6 @@ Sample for connect to irc server and decode the rot13 string
 Sample for connect to irc server and decode the zlib stream
 
 
+### checkdiff.py
+
+Sample for check the difference between 2 files

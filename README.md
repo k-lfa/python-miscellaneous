@@ -57,3 +57,7 @@ Sample for connect to irc server and decode the zlib stream
 ### checkdiff.py
 
 Sample for check the difference between 2 files
+
+### reverse-shell.py
+
+Sample of reverse shell basic

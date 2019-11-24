@@ -61,3 +61,9 @@ Sample for check the difference between 2 files
 ### reverse-shell.py
 
 Sample of reverse shell basic
+
+### path-truncator.py
+
+Script for exploit path-truncation of php5.2
+Sample : path-truncator.py -u "http://vulnerable.com/ch35/index.php?page=" -t admin.html
+

@@ -67,3 +67,7 @@ Sample of reverse shell basic
 Script for exploit path-truncation of php5.2
 Sample : path-truncator.py -u "http://vulnerable.com/ch35/index.php?page=" -t admin.html
 
+
+### md5salt_uncipher.py
+
+Sample of script for bruteforce md5 salted with a string or something else ....
